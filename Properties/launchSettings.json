@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "keepassity-win (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "keepassity-win (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
